@@ -16,5 +16,7 @@ Diinisiasi pada 02/01/2022 Minggu Pukul 16.01 WIB @google meets oleh
 - Belva Rabbani
 
   ![Foo](https://i.imgur.com/hJwbWmZ.png)
+  
+  cek Wiki [disini](https://github.com/Fast-Innovation-Hub/Documentation/wiki)
 
 
